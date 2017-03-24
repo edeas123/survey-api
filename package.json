@@ -1,0 +1,22 @@
+{
+  "name": "survey-api",
+  "version": "1.0.0",
+  "description": "survey api",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "multichain"
+  ],
+  "author": "obaro odiete",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin": "^3.0.1",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "q": "^1.4.1"
+  }
+}

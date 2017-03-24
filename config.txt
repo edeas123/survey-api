@@ -1,0 +1,4 @@
+host=192.168.174.135
+port=5748
+user=multichainrpc
+pass=DN3yixMnF1GKJgdxHKnGM2YFinSWvGsfmUiMMta3Mp8V
